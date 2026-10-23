@@ -12,54 +12,59 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Novia =====
-[1]Novia       |05:46:13 | 22-10-2026| login OK @zvnovia | score=1640 rank=4375
-[1]Novia       |05:46:13 | 22-10-2026| serverTime=2026-10-22T05:46:13.000Z local=2026-10-22T05:46:13.726Z
+[1]Novia       |05:45:11 | 23-10-2026| login OK @zvnovia | score=1720 rank=4278
+[1]Novia       |05:45:11 | 23-10-2026| serverTime=2026-10-23T05:45:10.000Z local=2026-10-23T05:45:11.050Z
 --> [1]Novia menjalankan: Claim Daily
-[1]Novia       |05:46:14 | 22-10-2026| daily: OK +10 poin score=1650
---> [1]Novia menjalankan: Auto All Tasks (7 pending)
-[1]Novia       |05:46:16 | 22-10-2026| [1/7] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/zvnovia/status/2113144308575092119
-[1]Novia       |05:46:16 | 22-10-2026| delay 10s...
-[1]Novia       |05:46:28 | 22-10-2026| [2/7] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/zvnovia/status/2113144324656599514
-[1]Novia       |05:46:28 | 22-10-2026| delay 10s...
-[1]Novia       |05:46:40 | 22-10-2026| [3/7] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/zvnovia/status/2113144588465934221
-[1]Novia       |05:46:40 | 22-10-2026| delay 10s...
-[1]Novia       |05:46:52 | 22-10-2026| [4/7] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/zvnovia/status/2113144772663614244
-[1]Novia       |05:46:52 | 22-10-2026| delay 10s...
-[1]Novia       |05:47:04 | 22-10-2026| [5/7] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/zvnovia/status/2113144683643831598
-[1]Novia       |05:47:04 | 22-10-2026| delay 10s...
-[1]Novia       |05:47:15 | 22-10-2026| [6/7] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/zvnovia/status/2113144733137700191
-[1]Novia       |05:47:15 | 22-10-2026| delay 10s...
-[1]Novia       |05:47:28 | 22-10-2026| [7/7] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/zvnovia/status/2113144871112775649
-[1]Novia       |05:47:28 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Novia       |05:47:30 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/zvnovia/status/2113144693146702166
+[1]Novia       |05:45:12 | 23-10-2026| daily: OK +10 poin score=1730
+--> [1]Novia menjalankan: Auto All Tasks (9 pending)
+[1]Novia       |05:45:13 | 23-10-2026| [1/9] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/zvnovia/status/2113506586697184367
+[1]Novia       |05:45:13 | 23-10-2026| delay 10s...
+[1]Novia       |05:45:25 | 23-10-2026| [2/9] 8598d58b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/zvnovia/status/2113506790861582895
+[1]Novia       |05:45:25 | 23-10-2026| delay 10s...
+[1]Novia       |05:45:38 | 23-10-2026| [3/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/zvnovia/status/2113506807940957083
+[1]Novia       |05:45:38 | 23-10-2026| delay 10s...
+[1]Novia       |05:45:49 | 23-10-2026| [4/9] 55d1cc44 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709
+[1]Novia       |05:45:49 | 23-10-2026| delay 10s...
+[1]Novia       |05:46:01 | 23-10-2026| [5/9] 007fb4bc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/zvnovia/status/2113506670042368048
+[1]Novia       |05:46:01 | 23-10-2026| delay 10s...
+[1]Novia       |05:46:13 | 23-10-2026| [6/9] cd349eb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/zvnovia/status/2113506907963033424
+[1]Novia       |05:46:13 | 23-10-2026| delay 10s...
+[1]Novia       |05:46:26 | 23-10-2026| [7/9] 2669d576 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/zvnovia/status/2113507049871058899
+[1]Novia       |05:46:26 | 23-10-2026| delay 10s...
+[1]Novia       |05:46:37 | 23-10-2026| [8/9] 352bca6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/zvnovia/status/2113506826275019639
+[1]Novia       |05:46:37 | 23-10-2026| delay 10s...
+[1]Novia       |05:46:49 | 23-10-2026| [9/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/zvnovia/status/2113507093348589869
+[1]Novia       |05:46:49 | 23-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Novia       |05:46:51 | 23-10-2026| [1/1] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113277810857099 | proof=https://x.com/zvnovia/status/2113506837433973797
 --> [1]Novia menjalankan: Watch Anime
-[1]Novia       |05:47:30 | 22-10-2026| watch: semua video sudah completed
+[1]Novia       |05:46:51 | 23-10-2026| watch: semua video sudah completed
 --> [1]Novia menjalankan: Read Article
-[1]Novia       |05:47:32 | 22-10-2026| news: 27/27 artikel selesai dibaca
-[1]Novia       |05:47:32 | 22-10-2026| mint eligibility: {"userId":"1616627532513808384","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@znovia","status":"submitted","revision":"39b09857-b204-4a31-a56f-8009fce42d11","
-[1]Novia       |05:47:38 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
-[1]Novia       |05:47:47 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Novia       |05:46:53 | 23-10-2026| news: 27/27 artikel selesai dibaca
+[1]Novia       |05:46:53 | 23-10-2026| mint eligibility: {"userId":"1616627532513808384","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@znovia","status":"submitted","revision":"39b09857-b204-4a31-a56f-8009fce42d11","
+[1]Novia       |05:46:59 | 23-10-2026| news road-to-mint-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Novia       |05:47:07 | 23-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Novia       |05:47:15 | 23-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Novia menjalankan: Quiz Anime
-[1]Novia       |05:47:49 | 22-10-2026| quiz ep1: sudah dijawab
-[1]Novia       |05:47:49 | 22-10-2026| quiz ep2: sudah dijawab
-[1]Novia       |05:47:49 | 22-10-2026| quiz ep3: sudah dijawab
-[1]Novia       |05:47:49 | 22-10-2026| quiz ep4: sudah dijawab
-[1]Novia       |05:47:49 | 22-10-2026| quiz ep5: sudah dijawab
-[1]Novia       |05:47:49 | 22-10-2026| quiz ep6: sudah dijawab
+[1]Novia       |05:47:18 | 23-10-2026| quiz ep1: sudah dijawab
+[1]Novia       |05:47:18 | 23-10-2026| quiz ep2: sudah dijawab
+[1]Novia       |05:47:18 | 23-10-2026| quiz ep3: sudah dijawab
+[1]Novia       |05:47:18 | 23-10-2026| quiz ep4: sudah dijawab
+[1]Novia       |05:47:18 | 23-10-2026| quiz ep5: sudah dijawab
+[1]Novia       |05:47:18 | 23-10-2026| quiz ep6: sudah dijawab
 --> [1]Novia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Novia       |05:47:51 | 22-10-2026| music: kedua misi sudah tercapai, stop
-[1]Novia       |05:47:52 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Novia       |05:47:52 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Novia       |05:47:52 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Novia       |05:47:19 | 23-10-2026| music: kedua misi sudah tercapai, stop
+[1]Novia       |05:47:20 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Novia       |05:47:20 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Novia       |05:47:20 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Novia menjalankan: Claim Missions
-[1]Novia       |05:47:52 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Novia       |05:47:52 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Novia       |05:47:52 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Novia       |05:47:21 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Novia       |05:47:21 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Novia       |05:47:21 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Novia menjalankan: Check Eligibility
 
 --- eligibility [1]Novia ---
-  @zvnovia | score=1640 rank=4375
-  tasks    [##################--] 77/84
+  @zvnovia | score=1720 rank=4278
+  tasks    [############--------] 13/22
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -70,14 +75,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Novia menjalankan: Read Manga
-[1]Novia       |05:47:56 | 22-10-2026| manga: 0/13 chapter belum completed
+[1]Novia       |05:47:24 | 23-10-2026| manga: 0/13 chapter belum completed
 --> [1]Novia menjalankan: Get Gift
-[1]Novia       |05:47:57 | 22-10-2026| gift: 0/4 belum diterima
+[1]Novia       |05:47:25 | 23-10-2026| gift: 0/4 belum diterima
 --> [1]Novia menjalankan: Setup Profile
-[1]Novia       |05:47:57 | 22-10-2026| profile: bio="https://x.com/zvnovia" fav=yuki rewardAt=1791681967
-[1]Novia       |05:47:57 | 22-10-2026| profile: bonus sudah diklaim, skip
+[1]Novia       |05:47:26 | 23-10-2026| profile: bio="https://x.com/zvnovia" fav=yuki rewardAt=1791681967
+[1]Novia       |05:47:26 | 23-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Novia menjalankan: Bind Wallet
-[1]Novia       |05:47:58 | 22-10-2026| wallet: sudah terikat 6vdkiWrwbm... (solana)
+[1]Novia       |05:47:26 | 23-10-2026| wallet: sudah terikat 6vdkiWrwbm... (solana)
 
 == RINGKASAN ==
-- Novia: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Novia: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
